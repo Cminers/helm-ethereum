@@ -5,7 +5,7 @@
 ## TL;DR;
 
 ```console
-$ helm install stable/ethereum
+$ helm install https://Cminers.github.io/helm-ethereum/
 ```
 
 ## Introduction
